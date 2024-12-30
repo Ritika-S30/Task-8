@@ -1,0 +1,63 @@
+h1 {
+    color: rgb(246, 244, 244);
+    text-align: top-right center;
+    font-family: 'Arial', sans-serif;
+}
+form {
+    color: rgb(242, 242, 242);
+    font-family: 'Courier New', Courier, monospace;
+    margin:0 auto;
+    padding: 50px;
+    width: 75%;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-bottom:10px ;
+
+}
+form input {
+    padding: 10px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px; /* Adds space below each input field */
+}
+
+
+body {
+    background-image: url("https://www.explore.com/img/gallery/the-worlds-best-places-to-put-on-your-travel-bucket-list/l-intro-1668448379.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    flex-direction: column;
+}
+
+ol li {
+    margin-bottom: 10px;
+    text-align:left; /* Adds space between Name and Nickname */
+}
+.actor-options {
+    display: flex;
+    gap: 5px; /* Space between radio buttons */
+    align-items: center; /* Vertically center the items */
+    margin-bottom:10px;
+}
+
+.actor-options label {
+    margin: 0; /* Remove default margin */
+}
+.gender-options {
+    display: flex;
+    justify-content: center; /* Center the items horizontally */
+    gap: 30px; /* Add space between the radio buttons */
+    align-items: center; /* Vertically align the radio buttons */
+}
+
+/* Add space below the gender section */
+.gender-section {
+    margin-bottom: 20px; /* Adjust this value as needed */
+}
