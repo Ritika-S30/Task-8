@@ -1,4 +1,4 @@
-h1 {
+ /* h1 {
     color: rgb(246, 244, 244);
     text-align: top-right center;
     font-family: 'Arial', sans-serif;
@@ -18,8 +18,8 @@ form input {
     width: 100%;
     border-radius: 10px;
     border: 1px solid #ccc;
-    margin-bottom: 10px; /* Adds space below each input field */
-}
+    margin-bottom: 10px; /* Adds space below each input field }*/
+/*
 
 
 body {
@@ -38,26 +38,125 @@ body {
 
 ol li {
     margin-bottom: 10px;
-    text-align:left; /* Adds space between Name and Nickname */
+    text-align:left; 
 }
 .actor-options {
     display: flex;
-    gap: 5px; /* Space between radio buttons */
-    align-items: center; /* Vertically center the items */
+    gap
+        background-image:url(": 5px; 
+    align-items: center; 
     margin-bottom:10px;
 }
 
 .actor-options label {
-    margin: 0; /* Remove default margin */
+    margin: 0;
 }
 .gender-options {
     display: flex;
-    justify-content: center; /* Center the items horizontally */
-    gap: 30px; /* Add space between the radio buttons */
-    align-items: center; /* Vertically align the radio buttons */
+    justify-content: center; 
+    gap: 30px; 
+    align-items: center; 
 }
 
-/* Add space below the gender section */
+
 .gender-section {
-    margin-bottom: 20px; /* Adjust this value as needed */
-}
+    margin-bottom: 20px; } */
+
+
+/* body{
+    background-image: url("https://wallpaperaccess.com/full/3155588.jpg");
+    background-size:cover;
+        background-position:center center;
+        background-position:fixed;
+        position:relative;
+        padding: 0;
+        width: 100%;
+        margin:0;
+        display: flex;
+        align-items: center;
+        justify-content:center;
+        height: 100vh; 
+        overflow: hidden;
+      }
+      
+      
+      nav {
+        position:fixed;
+        top: 20px;
+        right: 20px;
+        display: flex;
+        gap: 20px;
+        z-index: 10;
+      }
+      
+      
+      .nav-item {
+        margin: 0 15px;
+        font-weight: bold;
+        color:rgb(88, 6, 118)
+  
+      }
+      
+      .nav-item a {
+        text-decoration: none;
+        color: #333;
+        font-weight: bold;
+        font-size: 1.2em; 
+      }
+      
+      .nav-item a:hover {
+        color: #ddd242;
+      }
+      
+      .Ritika-icon:hover {
+        color: #b845d8;
+      }
+      
+       footer { 
+        background-color: #cce3e2;
+        padding:20px;
+        transform:translate(-45%);
+        text-align:center;
+        position:fixed;
+        bottom: 0;
+        width: 100%;
+        border-radius:0%;
+        box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+      } 
+      
+      
+    
+      footer p {
+        margin: 0;
+        color: #333;
+    
+      }
+      h1, p {
+        text-align: center;
+        color:whitesmoke;
+        
+      }
+      
+      
+      .main-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        color:black;
+      }
+      
+      .main-content h1 {
+        font-size: 2.5rem;
+        margin-bottom:20px;
+      }
+      
+      .main-content p {
+        font-size: 1.5rem; 
+      }
+       */
+
+
+    
+
